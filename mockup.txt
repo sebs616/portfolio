@@ -1,0 +1,21 @@
+Curriculum Mock-up
+
+About me:
+
+
+Interests:
+Computer graphics
+tech gadgets
+cooking
+problem solving
+
+
+
+Why I love to code;
+I´ve interested in computers and programming ever since i saw a computer open in computer lab back when I was in 5th grade, I remember at the time thinking: "How can this mess of wires and green boards show moving pictures and let me play super mario during class?".
+Through the following years computers became my hobby, I used my free time learning to build computers and write some small bits of code on my free time by searching tutorials on the internet.
+My first experiences programming where using the Java language to write some basic console based programs, and later learned to use the integrated Swing library to make a small game that im still proud of to this day, I mean, who in their right mind would use java swing for anything these days?
+
+By the time i was in higschool i was used to making small programs for anything that came to mind, like automating my math and physics homeworks, or trying to make games on unity with my friends a longside helping friends build their PCs and pick parts for the fun of it, or to make a quick buck here and there.
+
+After highschool i chose a carreer in electrical engineering 
